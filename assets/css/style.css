@@ -114,7 +114,7 @@ img {
 /* HOME */
 #home {
     
-    background: url("../images/a.jpg") repeat scroll center center / cover;
+    background: linear-gradient(rgba(92, 128, 132, 0.8), rgba(92, 128, 132, 0.8)),url("../images/a.jpg") repeat scroll center center / cover;
     height: 100vh;
     width: 100%;
 
