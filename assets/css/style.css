@@ -120,6 +120,12 @@ img {
 
 }
 
+.heady {
+    
+    position: absolute; 
+    top: 70px;
+}
+
 /* BTN */
 .btn {
     padding: 12px 28px;
