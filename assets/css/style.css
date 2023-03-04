@@ -210,11 +210,8 @@ img {
 .aboutimg{
     
     width: 100%;
-    box-shadow: 0px 0px 85px 0px rgba(0, 0, 0, 0.14);
-    margin-top: -60px;
-    margin-left: 90px;
-    height: 400px;
-    object-fit: cover;
+    height: auto;
+    
 }
 
 
