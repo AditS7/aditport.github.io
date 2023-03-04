@@ -209,8 +209,7 @@ img {
 
 .aboutimg{
     
-    width: 100%;
-    height: auto;
+    border: 8px solid var(--color-brand);
     
 }
 
